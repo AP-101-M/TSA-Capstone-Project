@@ -28,3 +28,5 @@ This project analyzes and forecasts stock market prices using ARIMA models, vola
 - Portfolio Construction
 - Model Comparison
 - Prediction vs Actual Analysis
+### Dashboard Visualization
+  - Tableau dashboard visualization for forecasting comparison
